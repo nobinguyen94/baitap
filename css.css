@@ -1,0 +1,27 @@
+#wrapper{
+width:1200px;
+height:500px;
+margin:auto 20px;
+background:#DCDCDC;
+}
+#form h1
+{
+font-style:italic;
+margin:100px;
+font-family:verdana;
+//font-family:sans-serif;
+}
+#form{
+margin:20px auto;
+font-family:arial;
+with:300px;
+height:300px;
+color: #000000;
+background-image:url(anh/Photo0647.jpg);/*background bang hinh anh*/
+background-repeat:repeat x;
+//background-position:top right;
+}
+#form input[name="sub"]
+{
+margin: 20px auto;
+}//the input... dung de tro toi input login 
